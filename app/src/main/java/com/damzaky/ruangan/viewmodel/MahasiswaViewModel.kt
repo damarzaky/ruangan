@@ -1,14 +1,9 @@
 package com.damzaky.ruangan.viewmodel
 
 import androidx.lifecycle.LiveData
-import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 import com.damzaky.ruangan.model.Mahasiswa
 import com.damzaky.ruangan.model.MahasiswaRepository
-import io.reactivex.rxjava3.android.schedulers.AndroidSchedulers
-import io.reactivex.rxjava3.core.Observer
-import io.reactivex.rxjava3.disposables.Disposable
-import io.reactivex.rxjava3.schedulers.Schedulers
 
 /**
  * Created by Damar Zaky on 6/20/2022.
